@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: boot-server
+  main:
+    web-application-type: none
+grpc:
+  server:
+    port: 9000
